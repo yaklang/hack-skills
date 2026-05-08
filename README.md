@@ -19,6 +19,9 @@ The objective is straightforward: organize security knowledge that is genuinely 
 
 ## Browse Online
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) — Real-time AI agent monitoring dashboard for OpenClaw: tracks Gateway status, sessions, token usage & trends
+
+
 This repo is published in three forms — pick whichever your workflow prefers; they are kept in sync on every push to `main`.
 
 | Channel | What you get | When to use |
